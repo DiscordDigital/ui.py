@@ -32,3 +32,7 @@ A basic dynamic terminal parser with arrow key and touch support using python3 n
 
 **If your terminal crashes just enter the terminal command "reset" without the quotation marks.\
 The terminal will reset and restore it's functionality. You may also restart the terminal if you prefer that.**
+
+#### Screenshots
+
+![Image](https://download.discord.digital/screenshots/ui.py-menu.png "ui.py")
