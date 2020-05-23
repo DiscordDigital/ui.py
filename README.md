@@ -29,6 +29,8 @@ A basic dynamic terminal parser with arrow key and touch support using python3 n
 
 1. Support for Windows Python3 because Python3 ncurses is only for linux.
 2. Touch scrolling, as a click is one interval and that'll reduce accuracy in selection dramatically.
+3. Mouse wheel navigation. I had the idea and had to figure out that WSL ignores mouse wheel in one direction.\
+besides that weird issue, python3 ncurses has no variable for the mouse wheel down event, so I can't implement it properly.
 
 **If your terminal crashes just enter the terminal command "reset" without the quotation marks.\
 The terminal will reset and restore it's functionality. You may also restart the terminal if you prefer that.**
